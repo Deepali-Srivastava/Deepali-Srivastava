@@ -7,7 +7,7 @@ You can access my courses on [Udemy]( https://www.udemy.com/user/deepalisrivasta
 [Data Structures and Algorithms In C++](http://coursegalaxy.com/course/data-structures-algorithms-c-plus-plus.html)\
 [Data Structures and Algorithms In C#](http://coursegalaxy.com/course/data-structures-algorithms-csharp.html)\
 [Data Structures and Algorithms In Java](http://coursegalaxy.com/course/data-structures-algorithms-java.html)\
-[Data Structures and Algorithms In Python](http://coursegalaxy.com/course/data-structures-algorithms-python.html)\
+[Data Structures and Algorithms In Python](http://coursegalaxy.com/course/data-structures-algorithms-python.html)
 
 <!--- 
 

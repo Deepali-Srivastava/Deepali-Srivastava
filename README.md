@@ -4,7 +4,7 @@ I am an online instructor and have written two books – [C in Depth]( https://w
 
 You can access my courses on [Udemy]( https://www.udemy.com/user/deepalisrivastava/) and [CourseGalaxy]( http://coursegalaxy.com/)
 * [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html)
-* [Trees and Graphs Data Structures and Algorithms In C)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-c.html)
+* [Trees and Graphs Data Structures and Algorithms In C](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-c.html)
 * [Data Structures and Algorithms In C#](http://coursegalaxy.com/course/data-structures-algorithms-csharp.html)
 * [Trees and Graphs Data Structures and Algorithms In C#](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-csharp.html)
 * [Data Structures and Algorithms In Java](http://coursegalaxy.com/course/data-structures-algorithms-java.html)

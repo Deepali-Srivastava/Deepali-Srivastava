@@ -2,12 +2,17 @@
 
 I am an online instructor and have written two books – [C in Depth]( https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487/),  [Data Structures through C in depth]( https://www.amazon.in/Data-Structures-Through-C-Depth/dp/8176567418/)
 
-You can access my courses on [Udemy]( https://www.udemy.com/user/deepalisrivastava/) and [CourseGalaxy]( http://coursegalaxy.com/)-\
-[Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html)\
-[Data Structures and Algorithms In C++](http://coursegalaxy.com/course/data-structures-algorithms-c-plus-plus.html)\
-[Data Structures and Algorithms In C#](http://coursegalaxy.com/course/data-structures-algorithms-csharp.html)\
-[Data Structures and Algorithms In Java](http://coursegalaxy.com/course/data-structures-algorithms-java.html)\
-[Data Structures and Algorithms In Python](http://coursegalaxy.com/course/data-structures-algorithms-python.html)
+You can access my courses on [Udemy]( https://www.udemy.com/user/deepalisrivastava/) and [CourseGalaxy]( http://coursegalaxy.com/)
+* [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html)
+* [Trees and Graphs Data Structures and Algorithms In C (DSA)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-c.html)
+* [Data Structures and Algorithms In C#](http://coursegalaxy.com/course/data-structures-algorithms-csharp.html)
+* [Trees and Graphs Data Structures and Algorithms In C# (DSA)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-csharp.html)
+* [Data Structures and Algorithms In Java](http://coursegalaxy.com/course/data-structures-algorithms-java.html)
+* [Trees and Graphs Data Structures and Algorithms In Java (DSA)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-java.html)
+* [Data Structures and Algorithms In Python](http://coursegalaxy.com/course/data-structures-algorithms-python.html)
+* [Trees and Graphs Data Structures and Algorithms In Python (DSA)](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-python.html)
+* [Data Structures and Algorithms In C++](http://coursegalaxy.com/course/data-structures-algorithms-c-plus-plus.html)
+
 
 <!--- 
 

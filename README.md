@@ -12,7 +12,8 @@ You can access my courses on [Udemy]( https://www.udemy.com/user/deepalisrivasta
 * [Data Structures and Algorithms In Python](http://coursegalaxy.com/course/data-structures-algorithms-python.html)
 * [Trees and Graphs Data Structures and Algorithms In Python](http://coursegalaxy.com/course/trees-graphs-data-structures-algorithms-python.html)
 * [Data Structures and Algorithms In C++](http://coursegalaxy.com/course/data-structures-algorithms-c-plus-plus.html)
-
+* [Python Programming](http://coursegalaxy.com/course/python-programming.html)
+* [Exception Handling in Python](http://coursegalaxy.com/course/exception-handling-python.html)
 <!--- 
 
 [![data-structures-and-algorithms-in-c](https://user-images.githubusercontent.com/98641125/153195841-209d2615-ed5f-4007-ae54-539ac3c1538a.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c/?couponCode=GITHUBSTUDENT)

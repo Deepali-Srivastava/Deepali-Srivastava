@@ -11,7 +11,7 @@ You can access my courses on [Udemy]( https://www.udemy.com/user/deepalisrivasta
 * [Data Structures and Algorithms In C++ (DSA)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-cpp-dsa?coupon=GITHUB50)
 * [Python Programming In Depth](https://coursegalaxy.newzenler.com/courses/python-programming?coupon=GITHUB50)
 * [Exception Handling in Python](https://coursegalaxy.newzenler.com/courses/exception-handling-python?coupon=GITHUB50)
-* [Empower Yourself with Advanced C# Concepts](https://coursegalaxy.newzenler.com/courses/advanced-csharp-programming-concepts?coupon=COURSEGALAXY50)
+* [Empower Yourself with Advanced C# Concepts](https://coursegalaxy.newzenler.com/courses/advanced-csharp-programming-concepts?coupon=GITHUB50)
 * [GNU make and Makefile from Scratch](https://leanpub.com/gnu-make-makefile-scratch)
 
 <!--- 

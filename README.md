@@ -11,9 +11,10 @@ You can access my courses on [Udemy]( https://www.udemy.com/user/deepalisrivasta
 * [Data Structures and Algorithms In C++ (DSA)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-cpp-dsa?coupon=GITHUB50)
 * [Python Programming In Depth](https://coursegalaxy.newzenler.com/courses/python-programming?coupon=GITHUB50)
 * [Exception Handling in Python](https://coursegalaxy.newzenler.com/courses/exception-handling-python?coupon=GITHUB50)
+* [Empower Yourself with Advanced C# Concepts](https://coursegalaxy.newzenler.com/courses/advanced-csharp-programming-concepts?coupon=COURSEGALAXY50)
 * [GNU make and Makefile from Scratch](https://leanpub.com/gnu-make-makefile-scratch)
-<!--- 
 
+<!--- 
 [![data-structures-and-algorithms-in-c](https://user-images.githubusercontent.com/98641125/153195841-209d2615-ed5f-4007-ae54-539ac3c1538a.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-c-2](https://user-images.githubusercontent.com/98641125/153195975-d359113b-ff13-4aaa-9f06-6f600c0ddc69.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c-2/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-python](https://user-images.githubusercontent.com/98641125/153196027-592d0307-5130-444f-8527-802634b5cc1e.png)]( https://www.udemy.com/course/data-structures-algorithms-in-python/?couponCode=GITHUBSTUDENT)
@@ -26,6 +27,4 @@ You can access my courses on [Udemy]( https://www.udemy.com/user/deepalisrivasta
 [![data-structures- and-algorithms-in-csharp-2](https://user-images.githubusercontent.com/98641125/153196486-9ce09c97-8724-4492-b5d6-4bb4aeb1d8bd.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-csharp-2/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-c-plus-plus](https://user-images.githubusercontent.com/98641125/153196522-2412c993-1055-4322-8487-4133537566c9.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c-plus-plus/?couponCode=GITHUBSTUDENT)
 [![linux-commands](https://user-images.githubusercontent.com/98641125/153196567-96b3396c-8ee3-4233-b8fc-66c6b3bd830c.png)]( https://www.udemy.com/course/linux-commands/?couponCode=GITHUBSTUDENT)
-
-
 --->

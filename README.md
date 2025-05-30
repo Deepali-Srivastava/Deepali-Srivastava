@@ -15,6 +15,8 @@ You can access my courses on [Udemy]( https://www.udemy.com/user/deepalisrivasta
 * [GNU make and Makefile from Scratch](https://leanpub.com/gnu-make-makefile-scratch)
 * [Data Structures and Algorithms (DSA) Roadmap](http://coursegalaxy.com/data-structures-algorithms/dsa-roadmap.html)
 * [Data Structures and Algorithms (DSA) Interview Questions](http://coursegalaxy.com/data-structures-algorithms/dsa-interview-questions.html)
+* [Data Structures and Algorithms (DSA) Topics](http://coursegalaxy.com/data-structures-algorithms/dsa-topics.html)
+* [Python Topics : Basic, Intermediate, Advanced](http://coursegalaxy.com/python/topics-basic-intermediate-advanced.html)
 
 <!--- 
 [![data-structures-and-algorithms-in-c](https://user-images.githubusercontent.com/98641125/153195841-209d2615-ed5f-4007-ae54-539ac3c1538a.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c/?couponCode=GITHUBSTUDENT)

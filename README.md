@@ -3,7 +3,6 @@
 I am an online instructor and have written three books – [Ultimate Python Programming](https://www.amazon.in/Ultimate-Python-Programming-programs-questions/dp/935551655X), [Comprehensive Data Structures and Algorithms in C++](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579) [C in Depth](https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487/), [Data Structures through C in depth](https://www.amazon.in/Data-Structures-Through-C-Depth/dp/8176567418/)
 
 You can access my courses on [CourseGalaxy]( http://coursegalaxy.com/)
-* [Comprehensive Data Structures and Algorithms in C++](https://www.amazon.in/Comprehensive-Data-Structures-Algorithms-fundamentals/dp/9365898579)
 * [Data Structures and Algorithms In C (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
 * [Data Structures and Algorithms In C# (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50)
 * [Data Structures and Algorithms In Java (DSA Masterclass)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-java-masterclass?coupon=GITHUB50)
